@@ -1,0 +1,56 @@
+.ombre{
+    box-shadow: 0 0 10px #999;
+}
+
+
+.section-art{
+    width: 1314px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+article{
+    height: 600px;
+    width: 400px;
+    background: white;
+    float: left;
+    position: relative;
+    margin-left: 38px;
+}
+
+
+
+
+article h2{
+    color: #f7901c;
+    text-align: center;
+
+}
+
+article h3{
+    color: black;
+    text-align: center;
+    padding: 0 30px;
+    font-size: 15px;
+}
+
+article p{
+    text-align: justify;
+    color: rgb(65, 65, 65);
+    padding: 0 20px;
+}
+
+.footer-article{
+    width: inherit;
+    height: 20px;
+    background-color: #f7901c;
+    margin-top: 46px;
+}
+
+.footer-art{
+    width: inherit;
+    height: 20px;
+    background-color: #f7901c;
+    margin-top: 82px;
+}

@@ -1,0 +1,59 @@
+.biblio{
+    width: 100%;
+    height: 1200px;
+    background: white;
+}
+
+.b-content{
+    width: 60%;
+    height: 80%;
+    background: white;
+    margin: auto;
+
+}
+
+.col1 img{
+    width: 100%;
+    border: 30px solid #E6E6E6;
+    float: left;
+
+}
+
+.col1{
+    width: 50%;
+    display: flex;
+    float: left;
+}
+
+.b-content h1{
+    font-size: 30px;
+    color: lightgray;
+    display: flex;
+    text-align: center;
+    padding-left: 20px;
+}
+
+
+
+.col2{
+    width: 50%;
+    display: flex;
+}
+
+.col2 h2{
+    text-align: justify;
+    font-size: 20px;
+    padding: 0 20px;
+}
+
+.col3{
+    width: 50%;
+    display: flex;
+}
+
+.col3 p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 0 50px;
+
+}
