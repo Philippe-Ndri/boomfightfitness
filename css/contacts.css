@@ -60,7 +60,7 @@
 .container .contactInfo .box .icon{
 	min-width: 60px;
 	height: 60px;
-	background: #fff;
+	background: #333;
 	display: flex;
 	justify-content: center;
 	align-items: center;
